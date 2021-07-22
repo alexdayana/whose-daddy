@@ -1,11 +1,11 @@
 
-{
-"ADS_STATION":
-[{
-"face_interstital":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"face_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"admob_interstital":"ca-app-pub-3940256099942544/1033173712",
-"admob_nativeads":"ca-app-pub-3940256099942544/2247696110",
-"IronAppId":"101ba57e1",
-"face_admob":"iron"
+6y{"ADS_STATION":[{
+"face_interstital":"1130439897467108_1130454014132363",
+"face_native":"1130459024131862",
+
+"admob_interstital":"ca-app-pub-4100980774562635/9972034572",
+"admob_nativeads":"ca-app-pub-4100980774562635/7063139514",
+  
+"face_admob":"admob"
 }]}
+
